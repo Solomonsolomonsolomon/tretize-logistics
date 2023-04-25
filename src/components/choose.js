@@ -19,9 +19,9 @@ export default function Choose(){
 
          <div className='wherearewe'>
             <p id="where">WHERE ARE WE ?</p>
-         <p className='capitalize'>We are located across the country with our major locations in KADUNA,ABUJA and LAGOS</p>
-         <p>LAGOS:33,Little Road Yaba.</p>
-         <p>ABUJA:C13,BlockD,2XL Mall,Road 11,off 3rd Avenue,Beside Zenith Bank,Gwarimpa.</p>
+         <p className='capitalize'>We are located across the country with our major locations in KADUNA, ABUJA and LAGOS</p>
+         <p>LAGOS:33, Little Road Yaba.</p>
+         <p>ABUJA:C13,BlockD,2XL Mall,Road 11, off 3rd Avenue,Beside Zenith Bank,Gwarimpa.</p>
          <p>KADUNA:25 Ahmadu Bello Way,(C.S.S Bookshop Building)</p>
          </div>
         

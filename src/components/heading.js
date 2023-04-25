@@ -31,7 +31,9 @@ export default function Head(){
 		
           <div className='svg-align'>
 		
-            
+ 
+<div id='navdiv'>
+	           
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100%" viewBox="0 0 855 635" enable-background="new 0 0 855 635" xmlSpace="preserve">
 <path fill="#0177FD" opacity="1.000000" stroke="none" 
@@ -12204,8 +12206,7 @@ M467.343658,155.945404
 	C471.894165,151.962982 469.790741,153.927795 467.343658,155.945404 
 z"/>
 </svg>
-          </div>
-		  <div className='container'id='clicks'>
+<div className='container'id='clicks'>
 		    <div className='bar1'></div>
 			 <div className='bar2'></div>
 			 <div className='bar3'></div>
@@ -12217,9 +12218,11 @@ z"/>
             <a href='#services'>OUR SERVICES</a>
             <a href='#contactdiv'>CONTACT US</a>
         </div>
+</div>
+          </div>
         <div className="text-h1">
-       
- <h1 id='section'>TRETIZE:AN END-TO-END LOGISTICS SERVICE PROVIDER</h1>
+        
+ <h2 id='section'>TRETIZE ROYALE LOGISTICS LIMITED:AN END-TO-END LOGISTICS SERVICE PROVIDER</h2>
     <p className='ptag'>We create an efficient and effective system that guarantees peace of mind.We operate in Nigeria with spread across the country</p>
         </div>
         </div>
